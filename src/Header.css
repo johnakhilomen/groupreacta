@@ -1,0 +1,22 @@
+.headerContainer{
+    background-color: bisque;
+    height: 100%;
+    width: 100%;
+}
+.headerText, .links
+{
+    text-align: center;
+    color: #000000;
+}
+
+a
+{
+    text-align: center;
+    color: #000000;
+    text-decoration: none;
+}
+a:hover
+{
+    color: gray;
+    transition: 1s;
+}
